@@ -6,3 +6,4 @@ def factorial(n):
 
 num = int(input("Enter the number: "))
 print("Factorial of the entered number:", factorial(num))
+0000000000000000000000
